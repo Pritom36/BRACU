@@ -50,14 +50,14 @@
             "username": "Arup",
             "pin": "e0e6e0ac768fed60b145efa56ff0fc00c809a54f2f26b54a649e5b0b16137a42",
             "deviceId": "",
-            "expiryDate": "2025-12-31",
+            "expiryDate": "2025-02-31",
             "isActive": true,
             "lastLogin": null
         },
         {
             "id": "u6",
             "username": "Sourav",
-            "pin": "35a9e381b1a27567549b5f8a6f783c167ebf809f1c4d6a9e367240484d8ce281",
+            "pin": "",
             "deviceId": "",
             "expiryDate": "2025-12-31",
             "isActive": true,
@@ -66,6 +66,24 @@
         {
             "id": "u7",
             "username": "Rohit",
+            "pin": "e0e6e0ac768fed60b145efa56ff0fc00c809a54f2f26b54a649e5b0b16137a42",
+            "deviceId": "",
+            "expiryDate": "2025-12-31",
+            "isActive": true,
+            "lastLogin": null
+        },
+        {
+            "id": "u8",
+            "username": "Suman",
+            "pin": "35a9e381b1a27567549b5f8a6f783c167ebf809f1c4d6a9e367240484d8ce281",
+            "deviceId": "",
+            "expiryDate": "2025-12-31",
+            "isActive": true,
+            "lastLogin": null
+        },
+        {
+            "id": "u9",
+            "username": "Sourav",
             "pin": "e0e6e0ac768fed60b145efa56ff0fc00c809a54f2f26b54a649e5b0b16137a42",
             "deviceId": "",
             "expiryDate": "2025-12-31",
