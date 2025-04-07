@@ -1,0 +1,23 @@
+{
+  "name": "solve-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "alpinejs": "^3.14.9",
+    "aos": "^2.3.4",
+    "autoprefixer": "^10.4.21",
+    "gsap": "^3.12.7",
+    "postcss": "^8.5.3",
+    "swiper": "^11.2.6",
+    "tailwindcss": "^4.1.3"
+  }
+}
